@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E64FE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Hugo;I'm+18+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <div align="center" align="top">  
+ <div align="center" >  
   <img width="auto" height="500px" src="http://github-readme-streak-stats.herokuapp.com?user=V1ctzzz&theme=midnight-purple&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Victor Hugo"/> 
 </div>
 
