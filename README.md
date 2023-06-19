@@ -9,11 +9,11 @@
   <img width="auto" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=V1ctzzz&theme=midnight-purple&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Victor Hugo"/> 
  </div>
 
-<img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/V1ctzzz/V1ctzzz/assets/97351811/fda88926-3e90-4329-835e-bdc974c91111"/> 
+<img  align="right" width="auto" height="195px" alt="Github" src="https://github.com/V1ctzzz/V1ctzzz/assets/97351811/fda88926-3e90-4329-835e-bdc974c91111"/> 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V1ctzzz&show_icons=true&count_private=true&hide_border=true&title_color=2E64FE&icon_color=3461eb&text_color=FFFFFF&bg_color=000000" alt="Victor Hugo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctzzz&layout=compact&hide_border=true&title_color=2E64FE&text_color=FFFFFF&bg_color=000000" />
+  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=V1ctzzz&show_icons=true&count_private=true&hide_border=true&title_color=2E64FE&icon_color=3461eb&text_color=FFFFFF&bg_color=000000" alt="Victor Hugo github stats" /> 
+  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctzzz&layout=compact&hide_border=true&title_color=2E64FE&text_color=FFFFFF&bg_color=000000" />
 </div>
 <div align="center"> 
 <a href="https://www.instagram.com/v1ctzzz/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
