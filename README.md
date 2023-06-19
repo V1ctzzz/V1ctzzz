@@ -6,10 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E64FE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Hugo;I'm+18+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <div align="center">  
-  <img width="auto" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=V1ctzzz&theme=midnight-purple&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Victor Hugo"/> 
+  <img width="auto" height="450px" src="http://github-readme-streak-stats.herokuapp.com?user=V1ctzzz&theme=midnight-purple&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Victor Hugo"/> 
  
 
-<img  align="right" width="auto" height="auto" alt="Github" src="https://github.com/V1ctzzz/V1ctzzz/assets/97351811/fda88926-3e90-4329-835e-bdc974c91111"/> 
+<img  align="right" width="auto" height="250px" alt="Github" src="https://github.com/V1ctzzz/V1ctzzz/assets/97351811/fda88926-3e90-4329-835e-bdc974c91111"/> 
 </div>
 <div align="center">  
   <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=V1ctzzz&show_icons=true&count_private=true&hide_border=true&title_color=2E64FE&icon_color=3461eb&text_color=FFFFFF&bg_color=000000" alt="Victor Hugo github stats" /> 
