@@ -1,4 +1,4 @@
-### Olá! Me chamo Victor Hugo 🐱‍👤
+### Olá! Eu me chamo Victor Hugo 🐱‍👤
 - Aficcionado por tecnologia 📱
 - Análise e desenvolvimento de sistemas - Unipaulistana :D
 <img width=1000px src="https://capsule-render.vercel.app/api?type=waving&color=2E64FE&height=120&section=header"/>
