@@ -23,6 +23,11 @@
 [![javas](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/V1ctzzz?tab=repositories)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/V1ctzzz?tab=repositories)
 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{V1ctzzz}/count.svg" /></p> 
+<br></div>
+
 
 
 
