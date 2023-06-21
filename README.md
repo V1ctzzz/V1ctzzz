@@ -25,6 +25,11 @@
 )](https://github.com/V1ctzzz?tab=repositories)
 [![javas](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/V1ctzzz?tab=repositories)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/V1ctzzz?tab=repositories)
+  <div>
+   <img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/V1ctzzz/V1ctzzz/assets/97351811/b4120394-4713-4e61-9dd4-c8040622b039"/>
+  
+  </div>
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
