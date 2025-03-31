@@ -1,4 +1,5 @@
 ### Olá! Eu me chamo Victor Hugo 🐱‍👤
+- Desenvolvedor Full-Stack
 - Aficcionado por tecnologia 📱
 - Análise e desenvolvimento de sistemas - Unipaulistana :D
 <img width=1000px src="https://capsule-render.vercel.app/api?type=waving&color=7cfc00&height=120&section=header"/>
