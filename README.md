@@ -5,7 +5,7 @@
 <p align="center">🎓 Análise e Desenvolvimento de Sistemas - Unipaulistana</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7cfc00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Hugo;I'm+19+years+old;I'm+from+Brazil;Graduated+in+Systems+Development;Be+Welcome!+:%29"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7cfc00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Hugo;I'm+20+years+old;I'm+from+Brazil;Graduated+in+Systems+Development;Be+Welcome!+:%29"/>
 </div>
 
 ---
@@ -18,14 +18,19 @@ Sou um jovem desenvolvedor apaixonado por tecnologia, com foco em **desenvolvime
 
 ### 🚀 Minhas Skills
 
-#### Linguagens & Tecnologias
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+#### Linguagens, Frameworks e Ferramentas
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()  
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()  
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()  
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()  
 
 </div>
 
